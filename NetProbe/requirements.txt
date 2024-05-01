@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Twitter API client
+tweepy
+
+# Instagram API client
+instaloader
+
+# HTTP requests
+requests
+
+#File Handling
+os
