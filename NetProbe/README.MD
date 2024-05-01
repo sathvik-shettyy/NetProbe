@@ -32,6 +32,3 @@ virtualization.py: Functions to provide virtualization information
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-You can customize this template with specific details about your project, such as installation instructions, usage guidelines, project structure, and license information. Feel free to add more sections or details based on your project requirements.
